@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/src/App.css" />
+    <file url="file://$PROJECT_DIR$/src/App.test.js" />
+    <file url="file://$PROJECT_DIR$/src/logo.svg" />
+    <file url="file://$PROJECT_DIR$/src/reportWebVitals.js" />
+    <file url="file://$PROJECT_DIR$/src/setupTests.js" />
+  </component>
+</project>
